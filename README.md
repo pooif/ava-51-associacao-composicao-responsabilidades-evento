@@ -1,6 +1,6 @@
 # 5.1 // Associação, Composição e Responsabilidade // Atividade
 
-Use este link do GitHub Classroom para ter sua cópia alterável deste repositório: <>
+Use este link do GitHub Classroom para ter sua cópia alterável deste repositório: <https://classroom.github.com/a/czTlYTzW>
 
 Implementar respeitando os fundamentos de Orientação a Objetos.
 
